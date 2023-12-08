@@ -1,6 +1,6 @@
-CoinBot offers two ![1](https://github.com/Robloxkorea/Coinbot/assets/70259932/e1901c75-5479-4ee5-b64a-b7cee85d79c6)
+![1](https://github.com/Robloxkorea/Coinbot/assets/70259932/e1901c75-5479-4ee5-b64a-b7cee85d79c6)
 
-types of Coinbase Advanced Trading Bots, such as DCA and GRID. Using automated trading bots by CoinBot you can finally stop depending entirely on yourself in trading and automate a portion of your trading activities on Coinbase Advanced.
+CoinBot offers two types of Coinbase Advanced Trading Bots, such as DCA and GRID. Using automated trading bots by CoinBot you can finally stop depending entirely on yourself in trading and automate a portion of your trading activities on Coinbase Advanced.
 
 Coinbase Advanced is a US-based digital asset exchange and trading platform that’s designed for both advanced traders and cryptocurrency enthusiasts. Compared to other exchanges, Coinbase Advanced might have higher fees and fewer assets for trade, but it also has strong security features and is available for users from both the U.S. and Canada.
 
